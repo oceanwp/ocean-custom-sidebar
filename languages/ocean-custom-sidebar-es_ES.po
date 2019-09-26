@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Custom Sidebar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-27 10:48+0000\n"
+"PO-Revision-Date: 2017-10-27 10:54+0000\n"
+"Last-Translator: sabiertas <angel@solucionesabiertas.es>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ocean-custom-sidebar.php:204
+msgid ""
+"Ocean Custom Sidebar requires that you use OceanWP as your parent theme."
+msgstr "Ocean Custom Sidebar necesita que OceanWP sea el tema padre."
+
+#: ocean-custom-sidebar.php:204
+msgid "Install OceanWP Now"
+msgstr "Instalar OceanWP ahora"
+
+#: ocean-custom-sidebar.php:214 ocean-custom-sidebar.php:311
+#: ocean-custom-sidebar.php:312
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: ocean-custom-sidebar.php:215
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ocean-custom-sidebar.php:216
+msgctxt "Admin menu name"
+msgid "Sidebars"
+msgstr "Barras laterales [nombre en el menu admin]"
+
+#: ocean-custom-sidebar.php:217
+msgid "Search Sidebars"
+msgstr "Buscar barras laterales"
+
+#: ocean-custom-sidebar.php:218
+msgid "All Sidebars"
+msgstr "Todas las barras laterales"
+
+#: ocean-custom-sidebar.php:219
+msgid "Parent Sidebar"
+msgstr "Barra lateral padre"
+
+#: ocean-custom-sidebar.php:220
+msgid "Parent Sidebar:"
+msgstr "Barra lateral padre:"
+
+#: ocean-custom-sidebar.php:221
+msgid "Edit Sidebar"
+msgstr "Editar barra lateral"
+
+#: ocean-custom-sidebar.php:222
+msgid "Update Sidebar"
+msgstr "Actualiza Barra lateral"
+
+#: ocean-custom-sidebar.php:223
+msgid "Add New Sidebar"
+msgstr "Añadir nueva barra lateral"
+
+#: ocean-custom-sidebar.php:224
+msgid "New Sidebar Name"
+msgstr "Nuevo nombre de barra lateral"
+
+#: ocean-custom-sidebar.php:341
+msgid "ID"
+msgstr "ID"
+
+#: ocean-custom-sidebar.php:401
+msgid "The name of the widgets area"
+msgstr "El nombre del area de widgets"
+
+#: ocean-custom-sidebar.php:402
+msgid "The description of the widgets area (optional)"
+msgstr "Descripción del widget area (opcional)"
+
+#. Name of the plugin
+msgid "Ocean Custom Sidebar"
+msgstr "Ocean Custom Sidebar"
+
+#. Description of the plugin
+msgid ""
+"Generates an unlimited number of sidebars and place them on any page you "
+"wish."
+msgstr ""
+"Crea un número ilimitado de barras laterales y asignalas a la página que "
+"quieras"
+
+#. URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-custom-sidebar/"
+msgstr "https://oceanwp.org/extension/ocean-custom-sidebar/"
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"

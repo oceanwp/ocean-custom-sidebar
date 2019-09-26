@@ -1,0 +1,378 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-10-10 21:17:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: OceanWP\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: "
+"_esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;__"
+"ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_"
+"ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:57
+msgid "Image Gallery"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:82
+#: includes/metabox/gallery-metabox/gallery-metabox.php:138
+msgid "Remove image"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:92
+msgid "Add/Edit Images"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:97
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:119
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:121
+msgid "Add to gallery"
+msgstr ""
+
+#: includes/metabox/metabox.php:64
+msgid "Ocean Settings"
+msgstr ""
+
+#: includes/metabox/metabox.php:131
+msgid "Other"
+msgstr ""
+
+#: includes/metabox/metabox.php:245
+msgid "Upload"
+msgstr ""
+
+#: includes/metabox/metabox.php:399 includes/metabox/metabox.php:410
+#: includes/metabox/metabox.php:449 includes/metabox/metabox.php:469
+msgid "Default"
+msgstr ""
+
+#: includes/metabox/metabox.php:400
+msgid "Centered"
+msgstr ""
+
+#: includes/metabox/metabox.php:401
+msgid "Centered Minimal"
+msgstr ""
+
+#: includes/metabox/metabox.php:402
+msgid "Background Image"
+msgstr ""
+
+#: includes/metabox/metabox.php:403
+msgid "Solid Color & White Text"
+msgstr ""
+
+#: includes/metabox/metabox.php:441
+msgid "Main"
+msgstr ""
+
+#: includes/metabox/metabox.php:444
+msgid "Content Layout"
+msgstr ""
+
+#: includes/metabox/metabox.php:447
+msgid "Select your custom layout for this page or post content."
+msgstr ""
+
+#: includes/metabox/metabox.php:450
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/metabox/metabox.php:451
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/metabox/metabox.php:452
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/metabox/metabox.php:453
+msgid "Full Screen"
+msgstr ""
+
+#: includes/metabox/metabox.php:457
+msgid "Sidebar"
+msgstr ""
+
+#: includes/metabox/metabox.php:460
+msgid "Select your a custom sidebar for this page or post."
+msgstr ""
+
+#: includes/metabox/metabox.php:464
+msgid "Margins"
+msgstr ""
+
+#: includes/metabox/metabox.php:467 includes/metabox/metabox.php:485
+msgid "Enable or disable this element on this page or post."
+msgstr ""
+
+#: includes/metabox/metabox.php:470 includes/metabox/metabox.php:487
+msgid "Enable"
+msgstr ""
+
+#: includes/metabox/metabox.php:471 includes/metabox/metabox.php:488
+msgid "Disable"
+msgstr ""
+
+#: includes/metabox/metabox.php:479 includes/metabox/metabox.php:482
+msgid "Title"
+msgstr ""
+
+#: includes/metabox/metabox.php:492
+msgid "Custom Title"
+msgstr ""
+
+#: includes/metabox/metabox.php:495
+msgid "Alter the main title display."
+msgstr ""
+
+#: includes/metabox/metabox.php:498
+msgid "Subheading"
+msgstr ""
+
+#: includes/metabox/metabox.php:501
+msgid "Enter your page subheading. Shortcodes & HTML is allowed."
+msgstr ""
+
+#: includes/metabox/metabox.php:504
+msgid "Title Style"
+msgstr ""
+
+#: includes/metabox/metabox.php:507
+msgid "Select a custom title style for this page or post."
+msgstr ""
+
+#: includes/metabox/metabox.php:511
+msgid "Title: Background Color"
+msgstr ""
+
+#: includes/metabox/metabox.php:512
+msgid "Select a color."
+msgstr ""
+
+#: includes/metabox/metabox.php:518
+msgid "Title: Background Image"
+msgstr ""
+
+#: includes/metabox/metabox.php:521
+msgid "Select a custom header image for your main title."
+msgstr ""
+
+#: includes/metabox/metabox.php:525
+msgid "Title: Background Height"
+msgstr ""
+
+#: includes/metabox/metabox.php:528
+msgid "Select your custom height for your title background. Default is 400px."
+msgstr ""
+
+#: includes/metabox/metabox.php:536
+msgid "Audio/Video Format"
+msgstr ""
+
+#: includes/metabox/metabox.php:540
+msgid "oEmbed URL"
+msgstr ""
+
+#: includes/metabox/metabox.php:541
+msgid ""
+"Enter a URL that is compatible with WP's built-in oEmbed feature. This "
+"setting is used for your video and audio post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:541 includes/metabox/metabox.php:547
+msgid "Learn More"
+msgstr ""
+
+#: includes/metabox/metabox.php:546
+msgid "Self Hosted"
+msgstr ""
+
+#: includes/metabox/metabox.php:547
+msgid "Insert your self hosted video or audio url here."
+msgstr ""
+
+#: includes/metabox/metabox.php:552
+msgid "Embed Code"
+msgstr ""
+
+#: includes/metabox/metabox.php:553
+msgid "Insert your embed/iframe code."
+msgstr ""
+
+#: includes/metabox/metabox.php:563
+msgid "Link/Quote Format"
+msgstr ""
+
+#: includes/metabox/metabox.php:567
+msgid "Link"
+msgstr ""
+
+#: includes/metabox/metabox.php:568
+msgid "Enter your external url. This setting is used for your link post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:573
+msgid "Link Target"
+msgstr ""
+
+#: includes/metabox/metabox.php:576
+msgid ""
+"Choose your target for the url. This setting is used for your link post "
+"formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:578
+msgid "Self"
+msgstr ""
+
+#: includes/metabox/metabox.php:579
+msgid "Blank"
+msgstr ""
+
+#: includes/metabox/metabox.php:583
+msgid "Quote"
+msgstr ""
+
+#: includes/metabox/metabox.php:584
+msgid "Enter your quote. This setting is used for your quote post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:590
+msgid "Quote Link"
+msgstr ""
+
+#: includes/metabox/metabox.php:593
+msgid "Choose your quote link. This setting is used for your quote post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:595
+msgid "Post"
+msgstr ""
+
+#: includes/metabox/metabox.php:596
+msgid "None"
+msgstr ""
+
+#: includes/panel/custom-css.php:41 includes/panel/custom-css.php:42
+#: includes/panel/custom-css.php:61 includes/panel/custom-css.php:135
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/panel/custom-css.php:118
+msgid "Settings saved."
+msgstr ""
+
+#: includes/panel/extensions.php:34 includes/panel/extensions.php:35
+msgid "Extensions"
+msgstr ""
+
+#: includes/panel/links.php:33
+msgid "Support"
+msgstr ""
+
+#: includes/panel/theme-panel.php:52
+msgid "General Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:55
+msgid "Typography Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:58
+msgid "Top Bar Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:61
+msgid "Header Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:64
+msgid "Blog Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:67
+msgid "Footer Widgets Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:70
+msgid "Footer Bottom Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:77
+msgid "WooCommerce Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:93 includes/panel/theme-panel.php:217
+msgid "Theme Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:111 includes/panel/theme-panel.php:112
+msgid "General"
+msgstr ""
+
+#: includes/panel/theme-panel.php:250
+msgid "Features"
+msgstr ""
+
+#: includes/panel/theme-panel.php:252
+msgid "Customize"
+msgstr ""
+
+#: includes/panel/theme-panel.php:255
+msgid "Licenses"
+msgstr ""
+
+#: includes/panel/theme-panel.php:267
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/panel/theme-panel.php:271
+msgid "Licenses Settings"
+msgstr ""
+
+#: includes/panel/theme-panel.php:281
+msgid "Save Changes"
+msgstr ""
+
+#: includes/panel/theme-panel.php:297
+msgid ""
+"Disable the Customizer panels that you do not have or need anymore to load "
+"it quickly. Your settings are saved, so do not worry."
+msgstr ""
+
+#: includes/panel/theme-panel.php:335
+msgid "Enable or Disable"
+msgstr ""
+
+#: ocean-extra.php:133 ocean-extra.php:142
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ocean-extra.php:195
+msgid "Ocean Extra requires that you use ocean as your parent theme."
+msgstr ""
+
+#: ocean-extra.php:195
+msgid "Install Ocean Now"
+msgstr ""
