@@ -1,0 +1,30 @@
+== Changelog ==
+
+= 1.0.7 =
+- Added: Updated: WordPress version number for compatibility.
+
+= 1.0.6 =
+- Added: Version updated for WordPress 5.4.
+
+= 1.0.5 =
+- Added: Codes for the Freemius switch.
+
+= 1.0.4 =
+- Added: Polish translation, thanks to Fin Fafarafiel.
+
+= 1.0.3 =
+- Added: Spanish language, thank you to Angel Julian Mena.
+- Deleted: Admin notice if OceanWP is not the theme used.
+
+= 1.0.2.1 =
+- Tweak: Change Sidebars tab priority.
+
+= 1.0.2 =
+- Added: Support OceanWP 1.1.
+
+= 1.0.1 =
+- Tweak: Move the Sidebars tab in Theme Panel if Ocean Extra is active.
+- Tweak: The number id is changed to the name of the sidebar.
+
+= 1.0.0 =
+- Initial release.
