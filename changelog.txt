@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.0.7 =
+- Added: Updated: WordPress version number for compatibility.
+
 = 1.0.6 =
 - Added: Version updated for WordPress 5.4.
 
