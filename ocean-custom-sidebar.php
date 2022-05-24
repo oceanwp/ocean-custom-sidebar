@@ -6,8 +6,8 @@
  * Version:				1.0.9
  * Author:				OceanWP
  * Author URI:			https://oceanwp.org/
- * Requires at least:	5.3
- * Tested up to:		5.9.3
+ * Requires at least:	5.6
+ * Tested up to:		6.0.0
  *
  * Text Domain: ocean-custom-sidebar
  * Domain Path: /languages
