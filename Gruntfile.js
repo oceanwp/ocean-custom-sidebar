@@ -1,14 +1,12 @@
 module.exports = function ( grunt ) {
 
-	const sass = require('node-sass');
+	const sass = require('sass');
 
 	// require it at the top and pass in the grunt instance
 	require( 'time-grunt' )( grunt );
 
 	// Load all Grunt tasks
-	require( 'jit-grunt' )( grunt, {
-		makepot: 'grunt-wp-i18n'
-	} );
+	require( 'jit-grunt' )( grunt, {} );
 
 	grunt.initConfig( {
 
