@@ -71,6 +71,22 @@ final class Ocean_Custom_Sidebar {
 	 */
 	public $version;
 
+	/**
+	 * The plugin url.
+	 *
+	 * @var     string
+	 * @access  public
+	 */
+	public $plugin_url;
+
+	/**
+	 * The plugin path.
+	 *
+	 * @var     string
+	 * @access  public
+	 */
+	public $plugin_path;
+
 	// Admin - Start
 	/**
 	 * The admin object.
