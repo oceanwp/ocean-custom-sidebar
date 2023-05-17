@@ -31,6 +31,9 @@ This plugin will only work with the [OceanWP](https://oceanwp.org/) theme.
 
 == Changelog ==
 
+= 1.1.1 - MAY 17 2023 =
+- Compatibility: PHP 8.2: Creation of dynamic property Ocean_Custom_Sidebar::$plugin_path and Ocean_Custom_Sidebar::$plugin_url is deprecated.
+
 = 1.1.0 - MAR 29 2023 =
 - Updated: Version numbers for compatibility.
 
