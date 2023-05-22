@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-04-07T05:31:54+00:00\n"
+"POT-Creation-Date: 2023-05-22T05:20:15+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.7.1\n"
 "X-Domain: ocean-custom-sidebar\n"
@@ -34,61 +34,61 @@ msgstr ""
 msgid "https://oceanwp.org/"
 msgstr ""
 
-#: ocean-custom-sidebar.php:200
-#: ocean-custom-sidebar.php:297
-#: ocean-custom-sidebar.php:298
+#: ocean-custom-sidebar.php:216
+#: ocean-custom-sidebar.php:313
+#: ocean-custom-sidebar.php:314
 msgid "Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:201
+#: ocean-custom-sidebar.php:217
 msgid "Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:202
+#: ocean-custom-sidebar.php:218
 msgctxt "Admin menu name"
 msgid "Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:203
+#: ocean-custom-sidebar.php:219
 msgid "Search Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:204
+#: ocean-custom-sidebar.php:220
 msgid "All Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:205
+#: ocean-custom-sidebar.php:221
 msgid "Parent Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:206
+#: ocean-custom-sidebar.php:222
 msgid "Parent Sidebar:"
 msgstr ""
 
-#: ocean-custom-sidebar.php:207
+#: ocean-custom-sidebar.php:223
 msgid "Edit Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:208
+#: ocean-custom-sidebar.php:224
 msgid "Update Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:209
+#: ocean-custom-sidebar.php:225
 msgid "Add New Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:210
+#: ocean-custom-sidebar.php:226
 msgid "New Sidebar Name"
 msgstr ""
 
-#: ocean-custom-sidebar.php:327
+#: ocean-custom-sidebar.php:343
 msgid "ID"
 msgstr ""
 
-#: ocean-custom-sidebar.php:387
+#: ocean-custom-sidebar.php:403
 msgid "The name of the widgets area"
 msgstr ""
 
-#: ocean-custom-sidebar.php:388
+#: ocean-custom-sidebar.php:404
 msgid "The description of the widgets area (optional)"
 msgstr ""

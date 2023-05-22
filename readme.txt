@@ -2,7 +2,7 @@
 Contributors: oceanwp, apprimit
 Tags: custom, custom sidebars, personalize, sidebar, sidebars, widget, widgets, oceanwp
 Requires at least: 5.6
-Tested up to: 6.2
+Tested up to: 6.2.1
 Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,8 +31,8 @@ This plugin will only work with the [OceanWP](https://oceanwp.org/) theme.
 
 == Changelog ==
 
-= 1.1.1 - MAY 17 2023 =
-- Compatibility: PHP 8.2: Creation of dynamic property Ocean_Custom_Sidebar::$plugin_path and Ocean_Custom_Sidebar::$plugin_url is deprecated.
+= 1.1.1 - MAY 22 2023 =
+- Added: Compatibility: PHP 8.2.6: Creation of dynamic property Ocean_Custom_Sidebar::$plugin_path and Ocean_Custom_Sidebar::$plugin_url is deprecated.
 
 = 1.1.0 - MAR 29 2023 =
 - Updated: Version numbers for compatibility.
