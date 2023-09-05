@@ -3,11 +3,11 @@
  * Plugin Name:			Ocean Custom Sidebar
  * Plugin URI:			https://oceanwp.org/extension/ocean-custom-sidebar/
  * Description:			Generates an unlimited number of sidebars and place them on any page you wish.
- * Version:				1.1.1
+ * Version:				1.1.2
  * Author:				OceanWP
  * Author URI:			https://oceanwp.org/
  * Requires at least:	5.6
- * Tested up to:		6.2.2
+ * Tested up to:		6.3.1
  *
  * Text Domain: ocean-custom-sidebar
  * Domain Path: /languages
@@ -106,7 +106,7 @@ final class Ocean_Custom_Sidebar {
 		$this->token 			= 'ocean-custom-sidebar';
 		$this->plugin_url 		= plugin_dir_url( __FILE__ );
 		$this->plugin_path 		= plugin_dir_path( __FILE__ );
-		$this->version 			= '1.1.1';
+		$this->version 			= '1.1.2';
 
 		register_activation_hook( __FILE__, array( $this, 'install' ) );
 
