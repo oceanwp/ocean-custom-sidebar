@@ -1,94 +1,99 @@
-# Copyright (C) 2023 OceanWP
+# Copyright (C) 2024 OceanWP
 # This file is distributed under the same license as the Ocean Custom Sidebar plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: Ocean Custom Sidebar 1.1.2\n"
+"Project-Id-Version: Ocean Custom Sidebar 1.1.3\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocean-custom-sidebar\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-09-06T05:25:37+00:00\n"
+"POT-Creation-Date: 2024-05-20T05:27:41+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.7.1\n"
+"X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: ocean-custom-sidebar\n"
 
 #. Plugin Name of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-custom-sidebar/ocean-custom-sidebar.php
 msgid "Ocean Custom Sidebar"
 msgstr ""
 
 #. Plugin URI of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-custom-sidebar/ocean-custom-sidebar.php
 msgid "https://oceanwp.org/extension/ocean-custom-sidebar/"
 msgstr ""
 
 #. Description of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-custom-sidebar/ocean-custom-sidebar.php
 msgid "Generates an unlimited number of sidebars and place them on any page you wish."
 msgstr ""
 
 #. Author of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-custom-sidebar/ocean-custom-sidebar.php
 msgid "OceanWP"
 msgstr ""
 
 #. Author URI of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-custom-sidebar/ocean-custom-sidebar.php
 msgid "https://oceanwp.org/"
 msgstr ""
 
-#: ocean-custom-sidebar.php:216
-#: ocean-custom-sidebar.php:313
-#: ocean-custom-sidebar.php:314
+#: ocean-custom-sidebar.php:225
+#: ocean-custom-sidebar.php:322
+#: ocean-custom-sidebar.php:323
 msgid "Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:217
+#: ocean-custom-sidebar.php:226
 msgid "Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:218
+#: ocean-custom-sidebar.php:227
 msgctxt "Admin menu name"
 msgid "Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:219
+#: ocean-custom-sidebar.php:228
 msgid "Search Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:220
+#: ocean-custom-sidebar.php:229
 msgid "All Sidebars"
 msgstr ""
 
-#: ocean-custom-sidebar.php:221
+#: ocean-custom-sidebar.php:230
 msgid "Parent Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:222
+#: ocean-custom-sidebar.php:231
 msgid "Parent Sidebar:"
 msgstr ""
 
-#: ocean-custom-sidebar.php:223
+#: ocean-custom-sidebar.php:232
 msgid "Edit Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:224
+#: ocean-custom-sidebar.php:233
 msgid "Update Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:225
+#: ocean-custom-sidebar.php:234
 msgid "Add New Sidebar"
 msgstr ""
 
-#: ocean-custom-sidebar.php:226
+#: ocean-custom-sidebar.php:235
 msgid "New Sidebar Name"
 msgstr ""
 
-#: ocean-custom-sidebar.php:343
+#: ocean-custom-sidebar.php:352
 msgid "ID"
 msgstr ""
 
-#: ocean-custom-sidebar.php:403
+#: ocean-custom-sidebar.php:412
 msgid "The name of the widgets area"
 msgstr ""
 
-#: ocean-custom-sidebar.php:404
+#: ocean-custom-sidebar.php:413
 msgid "The description of the widgets area (optional)"
 msgstr ""
