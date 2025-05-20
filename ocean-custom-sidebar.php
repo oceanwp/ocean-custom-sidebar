@@ -7,7 +7,7 @@
  * Author:				OceanWP
  * Author URI:			https://oceanwp.org/
  * Requires at least:	5.6
- * Tested up to:		6.5.3
+ * Tested up to:		6.8
  *
  * Text Domain: ocean-custom-sidebar
  * Domain Path: /languages
