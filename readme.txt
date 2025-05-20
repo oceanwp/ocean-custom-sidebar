@@ -2,8 +2,8 @@
 Contributors: oceanwp, apprimit
 Tags: custom, custom sidebars, personalize, sidebar, sidebars, widget, widgets, oceanwp
 Requires at least: 5.6
-Tested up to: 6.5.3
-Stable tag: 1.1.3
+Tested up to: 6.8
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,9 @@ This plugin will only work with the [OceanWP](https://oceanwp.org/) theme.
 2. Insert your widgets inside this sidebar.
 
 == Changelog ==
+
+= 1.1.4 - MAY 19 2025 =
+- Updated: Compatibility: WordPress version number.
 
 = 1.1.3 - MAY 20 2024 =
 - Updated: Compatibility: WordPress version number.

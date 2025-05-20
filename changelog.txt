@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.1.4 - MAY 19 2025 =
+- Updated: Compatibility: WordPress version number.
+
 = 1.1.3 - MAY 20 2024 =
 - Updated: Compatibility: WordPress version number.
 
